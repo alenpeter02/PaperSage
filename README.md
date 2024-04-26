@@ -2,6 +2,8 @@
 
 PaperSage is an AI-powered chatbot developed using LangChain technology. It utilizes advanced natural language processing (NLP) models and document retrieval techniques to provide intelligent responses based on the context of the conversation.
 
+![PaperSage Preview](rag.png)
+
 ## Key Features
 - **Contextual Understanding: PaperSage comprehends the conversation on “Leave No Context Behind” (https://arxiv.org/pdf/2404.07143) paper published by Google on 10th April 2024 to generate relevant responses.
 - **Powered by LangChain**: Leveraging LangChain's Chroma vector store and Google Generative AI for high-quality interactions.
